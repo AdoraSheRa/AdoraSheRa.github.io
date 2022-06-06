@@ -10,7 +10,7 @@ I am 30 years aged marketologist from Russia. I want to change my speciality and
 # Примеры кода
 0
 # Опыт работы
-*Unexperienced and proud*
+*Unexperienced and proud!*
 # Образование
 *Diplomized Accountant with passion to marketing and thirst for money*
 # Английский язык
